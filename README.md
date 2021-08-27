@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=geojunkie)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats-geojunkie.vercel.app/api?username=geojunkie&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out my [Advent of Code for 2020](https://github.com/GeoJunkie/advent-of-code-2020), the start of [100 Days of Code](https://github.com/GeoJunkie/100-days-of-code)
