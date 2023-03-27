@@ -2,10 +2,10 @@
 
 I'm just getting started on my [Personal README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#about-your-profile-readme).
 
-- 🔭 I’m currently working on attempting to transition to a developer role
+<!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning so much. So very, very much.
 - 💬 Ask me about WordPress, WooCommerce, Roller Derby
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/his or the/them
 - ⚡ Fun fact: I referee roller derby, and love it.
 
 
