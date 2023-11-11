@@ -5,7 +5,7 @@ I'm just getting started on my [Personal README](https://docs.github.com/en/free
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning so much. So very, very much.
 - 💬 Ask me about WordPress, WooCommerce, Roller Derby
-- 😄 Pronouns: he/him or they/them
+- 😄 Pronouns: he/his or the/them
 - ⚡ Fun fact: I referee roller derby, and love it.
 
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My stats](https://github-readme-stats-swart-kappa.vercel.app//api?username=geojunkie&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=geojunkie&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
