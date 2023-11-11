@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=geojunkie&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats-swart-kappa.vercel.app//api?username=geojunkie&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
