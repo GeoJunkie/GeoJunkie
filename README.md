@@ -5,7 +5,7 @@ I'm just getting started on my [Personal README](https://docs.github.com/en/free
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning so much. So very, very much.
 - 💬 Ask me about WordPress, WooCommerce, Roller Derby
-- 😄 Pronouns: he/his or the/them
+- 😄 Pronouns: he/him or they/them
 - ⚡ Fun fact: I referee roller derby, and love it.
 
 
